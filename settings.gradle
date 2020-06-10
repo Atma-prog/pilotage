@@ -1,0 +1,2 @@
+rootProject.name='Pilotage'
+include ':app'
